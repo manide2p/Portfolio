@@ -68,7 +68,8 @@ conditions.
 - Developed a data pipeline to evaluate various models and select the most suitable one. 
 
 ## Publications and Certifications:
-- [Finite Element Fatigue Analysis of a Crane Hook.](assets/img/Finite Element Fatigue Analysis of a Crane Hook.pdf target="_blank")
+- <a href="assets/img/Finite Element Fatigue Analysis of a Crane Hook.pdf" target="_blank">Finite Element Fatigue Analysis of a Crane Hook.</a>
+- [Finite Element Fatigue Analysis of a Crane Hook.](assets/img/Finite Element Fatigue Analysis of a Crane Hook.pdf)
 - Lean Six Sigma Black Belt
 - Operations Management from UIUC: Analysis and Improvement Methods.
 - Intro to Digital Manufacturing with Autodesk Fusion 360.
