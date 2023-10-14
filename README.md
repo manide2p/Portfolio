@@ -69,6 +69,6 @@ conditions.
 
 ## Certifications:
 -  Lean Six Sigma Black Belt
--  Operations Management from UIUC: Analysis and Improvement Methods.
+-  [Operations Management from UIUC: Analysis and Improvement Methods.](assets/img/Finite Element Fatigue Analysis of a Crane Hook.pdf)
 -  Intro to Digital Manufacturing with Autodesk Fusion 360.
 -  Autodesk Fusion 360 Integrated CAD/CAM/CAE.
