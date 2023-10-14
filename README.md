@@ -67,8 +67,8 @@ conditions.
 - Conducted in-depth analysis of logistics data, including data cleaning and exploratory analysis in Python, to gain insights. 
 - Developed a data pipeline to evaluate various models and select the most suitable one. 
 
-## PUblications and Certifications:
-- [Finite Element Fatigue Analysis of a Crane Hook.](assets/img/Finite Element Fatigue Analysis of a Crane Hook.pdf)
+## Publications and Certifications:
+- [Finite Element Fatigue Analysis of a Crane Hook.](assets/img/Finite Element Fatigue Analysis of a Crane Hook.pdf target="_blank")
 - Lean Six Sigma Black Belt
 - Operations Management from UIUC: Analysis and Improvement Methods.
 - Intro to Digital Manufacturing with Autodesk Fusion 360.
