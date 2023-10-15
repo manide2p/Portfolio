@@ -62,7 +62,7 @@ products in the market.
 providing guidelines to identify the fracture, Behavior of femur bone is analyzed using ANSYS under physiological load 
 conditions.
 
-**Supply Chain Analytics | University of Michigan (_Dec 2022_)**
+**- <a href="assets/img/supply chain analytics.pdf" target="_blank">Supply Chain Analytics.</a> | University of Michigan (_Dec 2022_)**
 - Achieved improvements in cost efficiency, service speed, and system efficiency with a primary focus on enhancing customer satisfaction through faster service delivery.
 - Conducted in-depth analysis of logistics data, including data cleaning and exploratory analysis in Python, to gain insights. 
 - Developed a data pipeline to evaluate various models and select the most suitable one. 
