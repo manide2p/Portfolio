@@ -72,5 +72,5 @@ conditions.
 - <a href="assets/img/Coursera RYWT53V7CH95.pdf" target="_blank">Supply Chain Analytics.</a>
 - <a href="assets/img/ZSSGB121143672.pdf" target="_blank">Lean Six Sigma Black Belt.</a>
 - <a href="assets/img/Coursera FKZ895J8XRJY.pdf" target="_blank">Operations Management from UIUC.</a>
-- Intro to Digital Manufacturing with Autodesk Fusion 360.
-- Autodesk Fusion 360 Integrated CAD/CAM/CAE.
+- <a href="assets/img/assets/img/Autodesk_fusion.pdf" target="_blank">Intro to Digital Manufacturing with Autodesk Fusion 360. from UIUC.</a>
+- <a href="assets/img/Autodesk Fusion 360.pdf" target="_blank">Autodesk Fusion 360 Integrated CAD/CAM/CAE. from UIUC.</a>
