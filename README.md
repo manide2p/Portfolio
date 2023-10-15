@@ -67,10 +67,12 @@ conditions.
 - Conducted in-depth analysis of logistics data, including data cleaning and exploratory analysis in Python, to gain insights. 
 - Developed a data pipeline to evaluate various models and select the most suitable one. 
 
-## Publications and Certifications:
-- <a href="assets/img/Finite Element Fatigue Analysis of a Crane Hook.pdf" target="_blank">Finite Element Fatigue Analysis of a Crane Hook.</a>
-- <a href="assets/img/Coursera RYWT53V7CH95.pdf" target="_blank">Supply Chain Analytics.</a>
+## Certifications:
+- <a href="assets/img/Coursera RYWT53V7CH95.pdf" target="_blank">Specialization in Supply Chain Analytics.</a>
 - <a href="assets/img/ZSSGB121143672.pdf" target="_blank">Lean Six Sigma Green Belt.</a>
 - <a href="assets/img/Coursera FKZ895J8XRJY.pdf" target="_blank">Operations Management from UIUC.</a>
 - <a href="assets/img/Autodsk.pdf" target="_blank">Intro to Digital Manufacturing with Autodesk Fusion 360. from UIUC.</a>
 - <a href="assets/img/Autodesk Fusion 360.pdf" target="_blank">Autodesk Fusion 360 Integrated CAD/CAM/CAE. from UIUC.</a>
+## Awards and and Extra Curriculars
+- <a href="assets/img/John Deere.jpg" target="_blank">John Deere Leadership Recognition Award.</a>
+- <a href="assets/img/Finite Element Fatigue Analysis of a Crane Hook.pdf" target="_blank">Publication: Finite Element Fatigue Analysis of a Crane Hook.</a>
