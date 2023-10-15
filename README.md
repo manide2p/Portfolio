@@ -49,27 +49,28 @@
 
 ## Projects
 
-**Ambidextrous desk chair| University of Michigan (_Dec 2022_)**
+**<a href="assets/img/rotating desk.pdf" target="_blank">Ambidextrous desk chair</a>| University of Michigan (_Dec 2022_)**
 - Management of Product and Process Design with VOC, KJ Affinity, FAST diagram, Metrics, Concept selection matrix, 
 Concept screening matrix, and Product architecture.
 - Developed a rotating desk that is compatible with left-hand & right-hand users & more ergonomic than the existing 
 products in the market.
 - Developed a 3D model using Solid Works.
 
-**Analysis of human femur bone | JNTU (Dec 2019)**
+**<a href="assets/img/FEA.pdf" target="_blank">Analysis of human femur bone</a> | JNTU (Dec 2019)**
 - Designed, and created a model of a real proximal human femur bone for evaluating the finite element analysis.
 - Study on fracture detection and identification of von Mises stress, deformation, and natural frequency identification for 
 providing guidelines to identify the fracture, Behavior of femur bone is analyzed using ANSYS under physiological load 
 conditions.
 
-**- <a href="assets/img/supply chain analytics.pdf" target="_blank">Supply Chain Analytics.</a> | University of Michigan (_Dec 2022_)**
+**<a href="assets/img/supply chain analytics.pdf" target="_blank">Supply Chain Analytics</a> | University of Michigan (_Dec 2022_)**
 - Achieved improvements in cost efficiency, service speed, and system efficiency with a primary focus on enhancing customer satisfaction through faster service delivery.
 - Conducted in-depth analysis of logistics data, including data cleaning and exploratory analysis in Python, to gain insights. 
 - Developed a data pipeline to evaluate various models and select the most suitable one. 
 
 ## Publications and Certifications:
 - <a href="assets/img/Finite Element Fatigue Analysis of a Crane Hook.pdf" target="_blank">Finite Element Fatigue Analysis of a Crane Hook.</a>
-- Lean Six Sigma Black Belt
-- Operations Management from UIUC: Analysis and Improvement Methods.
+- <a href="assets/img/Coursera RYWT53V7CH95.pdf" target="_blank">Supply Chain Analytics.</a>
+- <a href="assets/img/ZSSGB121143672.pdf" target="_blank">Lean Six Sigma Black Belt.</a>
+- <a href="assets/img/Coursera FKZ895J8XRJY.pdf" target="_blank">Operations Management from UIUC.</a>
 - Intro to Digital Manufacturing with Autodesk Fusion 360.
 - Autodesk Fusion 360 Integrated CAD/CAM/CAE.
