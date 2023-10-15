@@ -76,4 +76,5 @@ conditions.
 
 ## Awards and and Extra Curriculars:
 - <a href="assets/img/John Deere.jpg" target="_blank">John Deere Leadership Recognition Award.</a>
-- <a href="assets/img/Finite Element Fatigue Analysis of a Crane Hook.pdf" target="_blank">Publication: Finite Element Fatigue Analysis of a Crane Hook.</a>
+- Conducted a comparative study of crane hook materials (AISI 316L and AISI 4140) using finite element analysis ANSYS, Published a Research Paper <a href="assets/img/Finite Element Fatigue Analysis of a Crane Hook.pdf" target="_blank">Finite Element Fatigue Analysis of a Crane Hook.</a>
+- An active coordinator for the International Student Organization (ISO) at University od Michigan for coordinating with the international students and addressing their problems.
