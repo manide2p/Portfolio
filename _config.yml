@@ -1,12 +1,5 @@
 title: Pranay Reddy Patlolla
 logo: /assets/img/headshot.jpg
-# About Me Section
-about_me:
-  - I am an avid traveler, driven by a profound appreciation for architecture, nature, and the arts. My journeys take me to diverse corners of the globe, where I draw inspiration from the rich tapestry of the world's beauty.
-  - In my exploration of cities, I am deeply moved by the architectural wonders that span centuries and styles. From historical landmarks that narrate the past to contemporary masterpieces that push the boundaries of design, I am captivated by the stories etched in stone and steel.
-  - Natural landscapes, too, beckon me with their serene beauty. Whether amidst the majestic mountains, the tranquil forests, or the rhythmic waves of the sea, I find solace in the harmony of the natural world, a symphony of colors and sounds that renews my spirit.
-  - My appreciation for art is equally profound, transcending media and styles. From the evocative strokes of a painter's brush to the ethereal notes of a symphony, art in all its manifestations fuels my creativity and enriches my life.
-  - Through my portfolio, I invite you to join me on these explorations, as I capture the intersections of architecture, nature, and the arts. It is my pleasure to share with you the beauty, inspiration, and narratives that unfold in my travels and experiences. Thank you for visiting, and I hope you enjoy the journey with me.
-
+description: About Me Section
 # show_downloads: true
 theme: jekyll-theme-minimal
