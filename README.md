@@ -22,7 +22,7 @@
 **Manufacturing Process Engineer @ John Deere (_Aug 2022 - Present_)**
 - Defined roadmaps to meet requirements and goals, ensuring alignment with organizational objectives for NPI 1725C La Vista and Papillion Planter models.
 - Successfully led continuous improvement projects and milestones for a new technology process that eliminated 20% in repair time.
-- Achieved Continuous improvement goals in 3 quarters emphasizing quality, yield, reliability, costeffectiveness, productivity, and manufacturability.
+- Achieved Continuous improvement goals in 3 quarters emphasizing quality, yield, reliability, cost effectiveness, productivity, and manufacturability.
 - Facilitated data-driven decisions and process optimization by designing and implementing a real-time Metrics Reporting PowerBI dashboard.
 - Played a pivotal role in the implementation of Sciemetric test processes for the Pneumatic leaks process, leading to improved quality, yield, and cost-efficiency.
 - Collaborated with the shift team to sustain and enhance execution against critical key performance indicators (KPI).
