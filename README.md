@@ -5,18 +5,14 @@
 - B.E., Mechanical Engineering  | OSmania university (_May 2020_)
 
 ## Technical Skills: 
-- Design: AutoCAD, ANSYS, SolidWorks, PTC Creo, Windchill, CATIA.
-- Manufacturing: Bill of Materials, Manufacturing Execution Systems, Reliability analysis.
-- Data: SQL, Power BI, Minitab, Tableau, Microsoft Office and Excel.
-- Process: EIS, MRP, SAP, Design of Experiments, Statistical Process Control.
-- Programming: C, Python, CNC programming.
+- Skills: Data Modelling, EDA, hypothesis testing, data wrangling, feature engineering, statistical inference, A/B testing, machine learning, Agile project management (Scrum), Application Lifecycle Management (ALM), User Acceptance Testing (UAT), stakeholder management, consulting, strategy
+- Programming Languages: Python , R, MySQL, PySpark,C,C++,.
+- Tools: Jupyter Notebook, R Studio,  GitHub, Tableau, PowerBI, MS Excel, Jira,Docker,Jenkins,Powerbi,AWS, Apache Hive
+- Reporting Tools: Tableau, Power BI, Informatica, DataStage, Talend, AWS GLUE.
+- Databases: Oracle,MYSQL,Microsoft SQL Server,MangoDb
+- CI/CD Tools: Jenkins, Bamboo, GitLab, Docker, Kubernetes 
+- Hadoop distribution: Cloudera, AWS EMR and Azure Data Factory.
 
-## Areas of Expertise:
-- Design for Manufacturing - CAD/CAM (Computer-Aided Design/Computer-Aided Manufacturing)
-- Supply Chain Management / Logistics and Analytics
-- Continous Improvement / Lean Manufacturing
-- New Product Introduction 
-- Operations, Program and Project Management
 
 ## Work Experience:
 **Data Engineer @ Freddiemac (_Mar 2023 - Present_)**
@@ -41,8 +37,10 @@
 -	Designed and Developed ETL jobs to extract data from different sources and load it in data mart in Snowflake and managed Snowflake clusters such as launching the cluster by specifying the nodes and performing the data analysis queries. 
 
 **quality  Engineer @ Amazon (_Mar 2021 - Jul 2021_)**
-- Created SOPs with CGMP for Fabrication processing unit operations for machined parts, sheet metal, injection molding, forging, die casting, Lathe, and water jet cutting production lines, contributing to smooth operations.
-- Implemented best practices to monitor and manage equipment and processes, ensuring optimal manufacturing performance while efficiently managing operating expenses, contributing to cost savings and process optimization.
+- Developed and maintained BI dashboards using Tableau, providing insights to stakeholders, and enabling data-driven decision making.
+-	Conducted statistical analysis and machine learning experiments to identify patterns and insights in large datasets, resulting in increased sales by 10%.
+-	Designed and developed data models and ETL processes to support the integration of data from various sources into a centralized data warehouse using AWS Glue and Redshift.
+-	Analyze and obtain analytical report of the driver performance using SQL and salesforce to resolve the customer complaints and suggesting improvements in the network.
 
 **Data Engineer @ Natco Pharma (_MAR 2019 - Mar 2021_)**
 - Designed, developed, and maintained ETL mappings and workflows applying the business rules, creating Technical Design and Unit Test Case Documents
@@ -66,13 +64,18 @@
 
 
 ## Certifications:
-- <a href="assets/img/Coursera RYWT53V7CH95.pdf" target="_blank">Specialization in Supply Chain Analytics.</a>
-- <a href="assets/img/ZSSGB121143672.pdf" target="_blank">Lean Six Sigma Green Belt.</a>
-- <a href="assets/img/Coursera FKZ895J8XRJY.pdf" target="_blank">Operations Management from UIUC.</a>
-- <a href="assets/img/Autodsk.pdf" target="_blank">Intro to Digital Manufacturing with Autodesk Fusion 360.</a>
-- <a href="assets/img/Autodesk Fusion 360.pdf" target="_blank">Autodesk Fusion 360 Integrated CAD/CAM/CAE.</a>
+- <a href="https://www.coursera.org/account/accomplishments/verify/S68CDQLPB688" target="_blank">Regression Models.</a>
+- <a href="https://coursera.org/share/f6d43fc00e14b73256f56e4bf9e77686" target="_blank">Cyber Security in Manufacturing.</a>
+- <a href="https://coursera.org/share/b96baf4e98713ab05eda5140ed3dccb1" target="_blank">Developing Data Products.</a>
+- <a href="https://coursera.org/share/dee88a652b9f457b049d13353342ea84" target="_blank">Exploratory Data Analysis.</a>
+- <a href="https://coursera.org/share/bc495b73a4297ab38398a702e0a6a9b9" target="_blank">Statistical Inference.</a>
+- <a href="https://coursera.org/share/60c2706d381d08bfb7d6eb66f2d08517" target="_blank">The Data Scientist’s Toolbox.</a>
+- <a href="https://coursera.org/share/3544477778953c7c85237beb9081c7ee" target="_blank">Intelligent Machining.</a>
+- <a href="https://coursera.org/share/4a12ad0a704eb53f0956836038e33fa2" target="_blank">Getting and Cleaning Data.</a>
+- <a href="https://coursera.org/share/ae7cdbf8367bee5f1fb1ad1fef4fb23b" target="_blank">R Programming.</a>
+- <a href="https://coursera.org/share/9a98376b6d99d041417495a4066228c6" target="_blank">Financial Markets.</a>
 
 ## Awards and and Extra Curriculars:
-- <a href="assets/img/John Deere.jpg" target="_blank">John Deere Leadership Recognition Award.</a>
-- Conducted a comparative study of crane hook materials (AISI 316L and AISI 4140) using finite element analysis ANSYS, Published a Research Paper <a href="assets/img/Finite Element Fatigue Analysis of a Crane Hook.pdf" target="_blank">Finite Element Fatigue Analysis of a Crane Hook.</a>
-- An active coordinator for the International Student Organization (ISO) at University of Michigan for coordinating with the international students and addressing their problems.
+- Performance Evaluation of Copper Coated Aluminium Electrodes in EDM Process”. IJISET - International Journal of Innovative Science, Engineering &Technology, Vol. 7 Issue 7, July 2020.Published a Research Paper <a href="https://ijiset.com/vol7/v7s7/IJISET_V7_I7_42.pdf" target="_blank">Finite Element Fatigue Analysis of a Crane Hook.</a> 
+
+
