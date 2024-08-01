@@ -1,8 +1,8 @@
-# Manufacturing Engineer
+# Data Engineer
 
 ## Education						       		
-- M.S., Industrial Engineering	| University Of Michigan (_Dec 2022_) 			        		
-- B.S., Mechanical Engineering  | Jawaharlal Nehru Technological University (_May 2020_)
+- M.S., Data science	| State university of Newyork at Buffalo (_Feb 2023_) 			        		
+- B.E., Mechanical Engineering  | OSmania university (_May 2020_)
 
 ## Technical Skills: 
 - Design: AutoCAD, ANSYS, SolidWorks, PTC Creo, Windchill, CATIA.
@@ -19,53 +19,51 @@
 - Operations, Program and Project Management
 
 ## Work Experience:
-**Manufacturing Process Engineer @ John Deere (_Aug 2022 - Present_)**
-- Defined roadmaps to meet requirements and goals, ensuring alignment with organizational objectives for NPI 1725C La Vista and Papillion Planter models.
-- Successfully led continuous improvement projects and milestones for a new technology process that eliminated 20% in repair time.
-- Achieved Continuous improvement goals in 3 quarters emphasizing quality, yield, reliability, cost effectiveness, productivity, and manufacturability.
-- Facilitated data-driven decisions and process optimization by designing and implementing a real-time Metrics Reporting PowerBI dashboard.
-- Played a pivotal role in the implementation of Sciemetric test processes for the Pneumatic leaks process, leading to improved quality, yield, and cost-efficiency.
-- Collaborated with the shift team to sustain and enhance execution against critical key performance indicators (KPI).
-- Collaborated with other departments to create and manage FMEA, DPAR, and PPAP activities.
+**Data Engineer @ Freddiemac (_Mar 2023 - Present_)**
+- Contributed to the orchestration of a scalable microservices architecture, resulting in a 30% performance boost with Docker and PySpark .
+-	Implemented a composable data platform architecture, leveraging tools like Apache Airflow and AWS Redshift, to ensure modular scalability and observability within the data infrastructure.
+- implemented AWS Lambda for serverless computing, enhancing microservices scalability and responsiveness. Actively engaged in ETL processes and application development using Python and SQL.
+-	Involved in ETL architecture enhancements to increase performance using Snowflake's query optimizer and best practices for data loading and transformation
+- Translating architectural and design blueprints into fully functional big data systems, leveraging technologies such as Hadoop, Spark, Kafka, and HDFS to handle large-scale data processing tasks efficiently.
+-	Implemented Spark using Python and Spark SQL for faster testing and processing of data. Loaded processed data into Snowflake for advanced data warehousing and analytics capabilities.
+-	Worked on real-time data processing using Spark Streaming and Kafka using Python. Integrated real-time data into Snowflake to enable real-time analytics and insights.
+-	Involved in the complete SSIS life cycle in creating SSIS packages, building, deploying, and executing the packages in both environments (Development and Production) with Snowflake as the data source and destination.
+-	Optimized data storage, retrieval, and processing performance for workloads, utilizing efficient storage solutions and distributed computing frameworks like Hadoop and Spark.
 
-**Manufacturing Process Engineer @ Tennant (_April 2022 - Aug 2022_)**
-- SME- MES Visual Factory: Actively mentored team members, enhancing their technical expertise and facilitating knowledge dissemination and consistency.
-- Restructured layout and reduced footprint by 30% for T20 and M30 product lines.
-- Demonstrated troubleshooting skills and solutions using MES automation, and Smart Manufacturing tools, resulting in increased process efficiency by 20%.
-- Provided essential support for tool installation transitioning away from air guns to torque tools and controllers connected to MES leading to substantial efficiency gains in equipment and processes.
 
-**Quality Intern @ Tenneco (_Jan 2022 - April 2022_)**
-- Successfully implemented Corrective actions with 8D methodology, 3-legged 5 why analysis, and documented comprehensive failure analysis reports.
-- Established robust process control systems for the module and ensured its sustained performance during volume ramp-up.
-- Conducted DMAIC, Process Failure Mode, Effects, and Criticality Analysis (PFMEA) to identify and mitigate potential production risks, enhancing product quality.
+**Data Engineer @ Tek Gigzs (_APR 2022 - DEC 2023_)**
+-  Worked on data warehouse design and data integration using Apache Spark and Python, resulting in optimized data processing and improved data accuracy.
+- Utilized Spark SQL API in PySpark to extract and load data, and performed SQL queries, enabling efficient data processing and analysis.
+-	Executed data modeling, database design, and data mining activities, contributing to the integration and consolidation of disparate datasets for comprehensive analysis.
+- Designed and developed Spark workflows using Scala for data pull from AWS S3 bucket and Snowflake, applying transformations on it, resulting in efficient data processing and analysis.
+- Experienced in creating custom Airflow operators and sensors to integrate with various data sources, including databases, APIs, and file systems, enhancing pipeline flexibility and reliability.
+-	Demonstrated expertise in Python, SQL, and data pipeline orchestration tools like Airflow and Dbt, leveraging cloud data platforms such as AWS to enhance data processing capabilities.
+-	Designed and Developed ETL jobs to extract data from different sources and load it in data mart in Snowflake and managed Snowflake clusters such as launching the cluster by specifying the nodes and performing the data analysis queries. 
 
-**Manufacturing Process Engineer @ Bharat Heavy Electronics (_April 2019 - Sept 2019_)**
+**quality  Engineer @ Amazon (_Mar 2021 - Jul 2021_)**
 - Created SOPs with CGMP for Fabrication processing unit operations for machined parts, sheet metal, injection molding, forging, die casting, Lathe, and water jet cutting production lines, contributing to smooth operations.
 - Implemented best practices to monitor and manage equipment and processes, ensuring optimal manufacturing performance while efficiently managing operating expenses, contributing to cost savings and process optimization.
 
-**Manufacturing Process Engineer @ Defense Research and Development Laboratory (_April 2018 - Sept 2018_)**
-- Achieved a 15% decrease in build time by developing and implementing cost-effective engineering solutions reducing production costs and enhancing overall operational efficiency.
-- Achieved 25% faster design time and 15% fewer errors in manufacturing through drafting and modeling.
+**Data Engineer @ Natco Pharma (_MAR 2019 - Mar 2021_)**
+- Designed, developed, and maintained ETL mappings and workflows applying the business rules, creating Technical Design and Unit Test Case Documents
+- Developed and maintained data models and dashboards using BI tools such as Power BI, providing actionable insights to stakeholders and enabling data-driven decision making.
+- Designed, developed, and maintained AWS data pipelines using services such as AWS Glue, Amazon EMR, and AWS Data Pipeline to automate data ingestion, transformation, and loading tasks.
+- Monitored and troubleshooted data pipelines to ensure optimal performance and data integrity, proactively addressing any issues to minimize downtime and maximize productivity.
+- Developed Spark applications using Pyspark and Spark-SQL for data extraction, transformation, and aggregation from multiple file formats.
 
 ## Projects
 
-**<a href="assets/img/rotating desk.pdf" target="_blank">Ambidextrous desk chair</a>| University of Michigan (_Dec 2022_)**
-- Management of Product and Process Design with VOC, KJ Affinity, FAST diagram, Metrics, Concept selection matrix, 
-Concept screening matrix, and Product architecture.
-- Developed a rotating desk that is compatible with left-hand & right-hand users & more ergonomic than the existing 
-products in the market.
-- Developed a 3D model using Solid Works.
+**<a href="assets/img/rotating desk.pdf" target="_blank">Ambidextrous desk chair</a>| University at buffalo (_Dec 2021_)**
+-  Utilized R Shiny for insightful data analysis, revealing key customer behavior patterns and achieving a remarkable 15% enhancement in segmentation accuracy through advanced clustering techniques.
+- Developed interactive visualizations in R Shiny for dynamic exploration of customer behavior patterns.
+- Automated segmentation with machine learning in R Shiny, improving scalability and real-time adaptability.
 
-**<a href="assets/img/FEA.pdf" target="_blank">Analysis of human femur bone</a> | JNTU (Dec 2019)**
-- Designed, and created a model of a real proximal human femur bone for evaluating the finite element analysis.
-- Study on fracture detection and identification of von Mises stress, deformation, and natural frequency identification for 
-providing guidelines to identify the fracture, Behavior of femur bone is analyzed using ANSYS under physiological load 
-conditions.
 
-**<a href="assets/img/supply chain analytics.pdf" target="_blank">Supply Chain Analytics</a> | University of Michigan (_Dec 2022_)**
-- Achieved improvements in cost efficiency, service speed, and system efficiency with a primary focus on enhancing customer satisfaction through faster service delivery.
-- Conducted in-depth analysis of logistics data, including data cleaning and exploratory analysis in Python, to gain insights. 
-- Developed a data pipeline to evaluate various models and select the most suitable one. 
+**<a href="assets/img/FEA.pdf" target="_blank">Analysis of human femur bone</a> | University at buffalo (_Mar 2022_)**
+-  Attained an exceptional 82% accuracy in forecasting Bull and Bear phases through a comprehensive algorithmic study, highlighting LSTM’s superior effectiveness in volatile markets.
+-  Achieved an 82% accuracy in forecasting market phases using LSTM algorithms, showcasing their effectiveness in volatile markets.
+-   Demonstrated LSTM's superiority in predicting Bull and Bear phases with an exceptional 82% accuracy through algorithmic analysis.
+
 
 ## Certifications:
 - <a href="assets/img/Coursera RYWT53V7CH95.pdf" target="_blank">Specialization in Supply Chain Analytics.</a>
