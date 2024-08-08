@@ -1,7 +1,7 @@
 # Data Engineer
 
 ## Education						       		
-- M.S., Data science	| State university of Newyork at Buffalo (_Feb 2023_) 			        		
+- M.S., Data science	 | State university of Newyork at Buffalo (_Feb 2023_) 			        		
 - B.E., Mechanical Engineering  | OSmania university (_May 2020_)
 
 ## Technical Skills: 
