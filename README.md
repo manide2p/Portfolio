@@ -51,13 +51,13 @@
 
 ## Projects
 
-**<a href="assets/img/rotating desk.pdf" target="_blank">Mall Customer Clustering</a>| University at buffalo (_Dec 2021_)**
+**Mall Customer Clustering</a>| University at buffalo (_Dec 2021_)**
 -  Utilized R Shiny for insightful data analysis, revealing key customer behavior patterns and achieving a remarkable 15% enhancement in segmentation accuracy through advanced clustering techniques.
 - Developed interactive visualizations in R Shiny for dynamic exploration of customer behavior patterns.
 - Automated segmentation with machine learning in R Shiny, improving scalability and real-time adaptability.
 
 
-**<a href="assets/img/FEA.pdf" target="_blank">Cryptocurrency Market Analysis (R, API, Data Mining</a> | University at buffalo (_Mar 2022_)**
+**Cryptocurrency Market Analysis (R, API, Data Mining</a> | University at buffalo (_Mar 2022_)**
 -  Attained an exceptional 82% accuracy in forecasting Bull and Bear phases through a comprehensive algorithmic study, highlighting LSTM’s superior effectiveness in volatile markets.
 -  Achieved an 82% accuracy in forecasting market phases using LSTM algorithms, showcasing their effectiveness in volatile markets.
 -   Demonstrated LSTM's superiority in predicting Bull and Bear phases with an exceptional 82% accuracy through algorithmic analysis.
