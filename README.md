@@ -27,7 +27,7 @@
 -	Optimized data storage, retrieval, and processing performance for workloads, utilizing efficient storage solutions and distributed computing frameworks like Hadoop and Spark.
 
 
-**Data Engineer @ Tek Gigzs (_APR 2022 - DEC 2023_)**
+**Data Engineer @ Tek Gigzs (_Apr 2022 - Mar 2023_)**
 -  Worked on data warehouse design and data integration using Apache Spark and Python, resulting in optimized data processing and improved data accuracy.
 - Utilized Spark SQL API in PySpark to extract and load data, and performed SQL queries, enabling efficient data processing and analysis.
 -	Executed data modeling, database design, and data mining activities, contributing to the integration and consolidation of disparate datasets for comprehensive analysis.
@@ -42,7 +42,7 @@
 -	Designed and developed data models and ETL processes to support the integration of data from various sources into a centralized data warehouse using AWS Glue and Redshift.
 -	Analyze and obtain analytical report of the driver performance using SQL and salesforce to resolve the customer complaints and suggesting improvements in the network.
 
-**Data Engineer @ Natco Pharma (_MAR 2019 - Mar 2021_)**
+**Data Engineer @ Natco Pharma (_Apr 2019 - Mar 2021_)**
 - Designed, developed, and maintained ETL mappings and workflows applying the business rules, creating Technical Design and Unit Test Case Documents
 - Developed and maintained data models and dashboards using BI tools such as Power BI, providing actionable insights to stakeholders and enabling data-driven decision making.
 - Designed, developed, and maintained AWS data pipelines using services such as AWS Glue, Amazon EMR, and AWS Data Pipeline to automate data ingestion, transformation, and loading tasks.
