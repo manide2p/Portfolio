@@ -27,7 +27,7 @@
 -	Optimized data storage, retrieval, and processing performance for workloads, utilizing efficient storage solutions and distributed computing frameworks like Hadoop and Spark.
 
 
-**Data Engineer @ Tek Gigzs (_Apr 2022 - Mar 2023_)**
+**Data Engineer @ Tek Gigzs (_Apr 2022 - Aug 2022_)**
 -  Worked on data warehouse design and data integration using Apache Spark and Python, resulting in optimized data processing and improved data accuracy.
 - Utilized Spark SQL API in PySpark to extract and load data, and performed SQL queries, enabling efficient data processing and analysis.
 -	Executed data modeling, database design, and data mining activities, contributing to the integration and consolidation of disparate datasets for comprehensive analysis.
@@ -36,7 +36,7 @@
 -	Demonstrated expertise in Python, SQL, and data pipeline orchestration tools like Airflow and Dbt, leveraging cloud data platforms such as AWS to enhance data processing capabilities.
 -	Designed and Developed ETL jobs to extract data from different sources and load it in data mart in Snowflake and managed Snowflake clusters such as launching the cluster by specifying the nodes and performing the data analysis queries. 
 
-**quality  Engineer @ Amazon (_Mar 2021 - Jul 2021_)**
+**quality specilist Engineer @ Amazon (_Mar 2021 - Jul 2021_)**
 - Developed and maintained BI dashboards using Tableau, providing insights to stakeholders, and enabling data-driven decision making.
 -	Conducted statistical analysis and machine learning experiments to identify patterns and insights in large datasets, resulting in increased sales by 10%.
 -	Designed and developed data models and ETL processes to support the integration of data from various sources into a centralized data warehouse using AWS Glue and Redshift.
